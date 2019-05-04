@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-23T23:53:50Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "mini-DIN-8 breakout"
+        },
+        "Owner": "David Shadoff <david.shadoff@gmail.com>",
+        "Size": {
+            "X": 24.308,
+            "Y": 19.548
+        }
+    }
+}
